@@ -1,0 +1,201 @@
+body{
+    background-color: cornsilk;
+}
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.textLeft{
+    font-family: 標楷體;
+    font-size: large;
+    height: 50px;
+    margin:40px 80px 50px 80px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightpink;
+    width:300px;
+}
+.triAngleToLeft{
+    border-color: transparent lightpink transparent transparent;
+    border-style: solid;
+    border-width: 10px;
+    width: 0px;
+    height: 0px;
+    float: left;
+    margin-top: 10px;
+}
+.chatOdd img{
+    float: left;
+}
+.chatEven img{
+    float:right;
+    width: 80px;
+    margin-top: -25px;
+}
+.textRight{
+    font-family: 標楷體;
+    font-size: large;
+    height: 50px;
+    margin: -30px 0px 50px 0px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    width:300px;
+    float: right;
+}
+.triAngleToRight{
+    border-color: transparent transparent transparent lightskyblue;
+    border-style: solid;
+    border-width: 10px;
+    width: 0px;
+    height: 0px;
+    float: right;
+    margin-top: -18px;
+}
+.textLeft1{
+    font-family: 標楷體;
+    font-size: large;
+    height: 50px;
+    margin:100px 80px 50px 80px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightpink;
+    width:300px;
+}
+.triAngleToLeft1{
+    border-color: transparent lightpink transparent transparent;
+    border-style: solid;
+    border-width: 10px;
+    width: 0px;
+    height: 0px;
+    float: left;
+    margin-top: 10px;
+}
+.chatOdd1 img{
+    float: left;
+}
+.chatEven1 img{
+    float:right;
+    width: 80px;
+    margin-top: -25px;
+}
+.textRight1{
+    font-family: 標楷體;
+    font-size: large;
+    height: 70px;
+    margin: -30px 0px 50px 0px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    width:300px;
+    float: right;
+}
+.triAngleToRight1{
+    border-color: transparent transparent transparent lightskyblue;
+    border-style: solid;
+    border-width: 10px;
+    width: 0px;
+    height: 0px;
+    float: right;
+    margin-top: -19px;
+}
+.textLeft2{
+    font-family: 標楷體;
+    font-size: large;
+    height: 70px;
+    margin:130px 80px 50px 80px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightpink;
+    width:300px;
+}
+.triAngleToLeft2{
+    border-color: transparent lightpink transparent transparent;
+    border-style: solid;
+    border-width: 10px;
+    width: 0px;
+    height: 0px;
+    float: left;
+    margin-top: 10px;
+}
+.chatOdd2 img{
+    float: left;
+}
+.chatEven2 img{
+    float:right;
+    width: 80px;
+    margin-top: -25px;
+}
+.textRight2{
+    font-family: 標楷體;
+    font-size: large;
+    height: 70px;
+    margin: -30px 0px 50px 0px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    width:300px;
+    float: right;
+}
+.triAngleToRight2{
+    border-color: transparent transparent transparent lightskyblue;
+    border-style: solid;
+    border-width: 10px;
+    width: 0px;
+    height: 0px;
+    float: right;
+    margin-top: -19px;
+}
+.div1{
+    width: 1535px;
+    height: 50px;
+    background-color: coral;
+    position: fixed;
+    margin: 140px 0px 0px -7px;
+}
+.div2{
+    width: 800px;
+    height: 40px;
+    background-color: white;
+    position:fixed;
+    margin: 145px 0px 0px 350px;
+    border-radius: 30px;
+}
+.div3{
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position:fixed;
+    margin: 140px 0px 0px 100px;
+    border-radius: 50%;
+}
+.div3:hover{
+    background-color: burlywood;
+}
+.div4{
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position:fixed;
+    margin: 140px 0px 0px 220px;
+    border-radius: 50%;
+}
+.div4:hover{
+    background-color: burlywood;
+}
+.div5{
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position:fixed;
+    margin: 140px 0px 0px 1220px;
+    border-radius: 50%;
+}
+.div5:hover{
+    background-color: burlywood;
+}
+input:hover{
+    background-color:antiquewhite;
+    border-radius: 30px;
+}
